@@ -2392,7 +2392,7 @@ span {
   z-index: 9999;
   width: 100%;
   background: transparent;
-  border: 1px solid rgba(182, 140, 90, 0.3);
+  border: 1px solid rgb(72 81 179 / 30%);
 }
 .header-2 .container-fluid {
   padding-left: 80px;
