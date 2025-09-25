@@ -3688,7 +3688,7 @@ span {
     margin-right: 0;
   }
 }
-.hero-1 .hero-image::before {
+/* .hero-1 .hero-image::before {
   position: absolute;
   top: 0;
   left: 0;
@@ -3699,12 +3699,12 @@ span {
   content: "";
   background: var(--theme);
   width: 540px;
-  height: 643px;
-  border-radius: 270px 270px 0px 0px;
-  left: 12%;
+  height: 540px;
+  border-radius: 50%;
+  left: 13%;
   z-index: -1;
   top: initial;
-}
+} */
 @media (max-width: 1399px) {
   .hero-1 .hero-image::before {
     display: none;
